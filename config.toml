@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://credistfree.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "รวมเว็บ แจกเครดิตฟรี"
 theme = "ananke"
